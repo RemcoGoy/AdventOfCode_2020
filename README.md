@@ -1,8 +1,8 @@
 ﻿# AdventOfCode_2020
- 
-Day 01: **
 
-Day 02:
+Day 01: \*\*
+
+Day 02: \*\*
 
 Day 03:
 
